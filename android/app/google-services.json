@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "509740150836",
+    "project_id": "nearby-pay-nashit-27102710",
+    "storage_bucket": "nearby-pay-nashit-27102710.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509740150836:android:55ca539991a3d863cc1a61",
+        "android_client_info": {
+          "package_name": "com.example.nearby_pay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm_av6eIn7vNuJLh1BrKtA3lWl3PdFY7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
